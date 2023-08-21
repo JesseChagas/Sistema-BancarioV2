@@ -1,4 +1,4 @@
-# Sistema Bancário
+# Sistema Bancário V2
 
 Este é um sistema bancário em Python que permite a criação de clientes, contas bancárias e a realização de operações como depósito, saque e exibição de extrato.
 
